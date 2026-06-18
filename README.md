@@ -2,6 +2,8 @@
 
 Grant Fit Scout is a self-serve Grants.gov lead scoring tool for grant writers, nonprofits, universities, workforce boards, community colleges, and proposal consultants.
 
+The practical use case is not "scrape grants." It is: find the few federal funding opportunities worth reading this week.
+
 It turns broad Grants.gov searches into a ranked triage list with:
 
 - fit score
@@ -36,6 +38,12 @@ Pricing on Apify:
 - A grant writer wants a quick Grants.gov shortlist before spending time in NOFOs.
 - A community college wants cybersecurity education opportunities with deadline and eligibility clues.
 - A proposal consultant wants a repeatable lead watchlist for clients.
+
+## Niche Landing Pages
+
+- [Community college grants](https://craiguito.github.io/grant-fit-scout/community-college-grants.html)
+- [Cybersecurity workforce grants](https://craiguito.github.io/grant-fit-scout/cybersecurity-workforce-grants.html)
+- [Nonprofit workforce grants](https://craiguito.github.io/grant-fit-scout/nonprofit-workforce-grants.html)
 
 ## Sample Output
 
